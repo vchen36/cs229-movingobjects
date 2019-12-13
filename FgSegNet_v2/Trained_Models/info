@@ -1,3 +1,7 @@
-All trained models are saved on my Google Drive:
+All trained models for the following datasets are saved on my Google Drive: 
+  https://drive.google.com/drive/folders/1fBi8ZDakX8YVhazAomnrCz2-an6_3DET
 
-https://drive.google.com/drive/folders/1fBi8ZDakX8YVhazAomnrCz2-an6_3DET
+Dataset: baseline, badWeather, cameraJitter, dynamicBackground, intermittenObjectMotion, lowFramerate, nightVideos
+
+To create the trained models: refer to here for more details: https://github.com/lim-anggun/FgSegNet_v2
+
